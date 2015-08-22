@@ -1,6 +1,6 @@
 class Cell
   attr_reader :x, :y
-  attr_accessor :terrain
+  attr_accessor :terrain, :settlement
   
   def initialize(x,y)
     @x, @y = x, y

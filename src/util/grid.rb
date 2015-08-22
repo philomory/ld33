@@ -1,4 +1,5 @@
 class Grid
+  include Enumerable
   attr_reader :width, :height
   
   def initialize(width, height, &blk)
