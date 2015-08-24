@@ -1,0 +1,7 @@
+name: grendel
+health: 100
+resources:
+  food: 50
+  gold: 0
+  lumber: 0
+  iron: 0

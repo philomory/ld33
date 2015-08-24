@@ -1,0 +1,55 @@
+gold:
+  -
+    :text: He shook his head. "My advice to you, my violent friend
+    :x: 10
+    :y: 10
+  -
+    :text: is to seek out gold, and sit on it."
+    :x: 10
+    :y: 30
+  -
+    :text: John Gardner, <i>Grendel</i>
+    :x: 100
+    :y: 100
+    
+accident:
+  -
+    :text: "They watch on,"
+    :x: 10
+    :y: 10
+    :pause: 0.1
+    :duration: 1.5
+  -
+    :text: "They watch on, evil,"
+    :x: 10
+    :y: 10
+    :pause: 0.1
+    :duration: 1.0
+  -
+    :text: "They watch on, evil, incredibly stupid,"
+    :x: 10
+    :y: 10
+    :pause: 0.1
+    :duration: 1.25
+  -
+    :text: "enjoying my destruction."
+    :x: 10
+    :y: 26
+    :pause: 1
+    :duration: 1.25
+  -
+    :text: "\"Poor Grendel's had an accident,\" I wisper."
+    :x: 10
+    :y: 90
+    :pause: 0.5
+  -
+    :text: "\"So may you all.\""
+    :x: 10
+    :y: 106
+    :pause: 0.5
+    :duration: 2.0
+  -
+    :text: "John Gardner, <i>Grendel</i>"
+    :x: 180
+    :y: 200
+    

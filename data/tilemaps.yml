@@ -1,0 +1,46 @@
+water:
+  set: basictiles_2.png
+  index: 13
+
+grassland_0:
+  set: basictiles_2.png
+  index: 11
+
+grassland_1:
+  set: basictiles_2.png
+  index: 12
+  
+grassland_2:
+  set: basictiles_2.png
+  index: 64
+  
+grassland_3:
+  set: basictiles_2.png
+  index: 65
+  
+settlement:
+  set: basictiles_2.png
+  index: 44
+  
+mountain_0:
+  set: basictiles_2.png
+  index: 62
+  
+mountain_1:
+  set: basictiles_2.png
+  index: 63
+  
+grendel:
+  set: dawnlike/Misc0.png
+  index: 4
+  
+wall:
+  image: wall.png
+  
+forest_0:
+  set: basictiles_2.png
+  index: 76
+  
+forest_1:
+  set: basictiles_2.png
+  index: 77
