@@ -10,6 +10,9 @@ Controls:
   Enter/Return: Make menu selection
   Escape: Quit the game
   
+There was not much time to test this after completion.
+Bugs can be reported at: https://bitbucket.org/philomory/ld33/issues
+  
 Credits:
   Code:
     Adam Gardner
